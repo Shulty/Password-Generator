@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    background: #1F2937;
+}
+h2{
+    color:white;
+}
+p{
+    color:#D5D4D8;
+}
+hr{
+    border: 1px solid #2F3E53;  
+}
+.password{
+    color:#55F991;
+}
+.passwordContainer{
+    background-color: #273549;
+}
+#green-heading{
+    color:#4ADF86;
+}
+#generate-button{
+    background-color: #10B981;
+    color:white;
+}
