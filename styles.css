@@ -28,6 +28,7 @@ p{
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
+    user-select: none;
 }
 hr{
     margin: 32px 0px;
@@ -54,6 +55,9 @@ hr{
     display: flex;
     justify-content: center;
     align-items: center;
+
+    cursor: pointer;
+    user-select: none;
 }
 #green-heading{
     color:#4ADF86;
