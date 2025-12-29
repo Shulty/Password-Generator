@@ -2,6 +2,7 @@
     font-family: "Karla";
     src: url("Karla-ExtraBold.ttf");
 }
+@import url(normalise.css);
 
 body{
     margin: 0;
