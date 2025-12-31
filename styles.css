@@ -1,9 +1,8 @@
+@import url(normalise.css);
 @font-face {
     font-family: "Karla";
     src: url("Karla-ExtraBold.ttf");
 }
-@import url(normalise.css);
-
 body{
     margin: 0;
     padding: 9% 13%;
